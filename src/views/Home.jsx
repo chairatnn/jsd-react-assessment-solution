@@ -3,11 +3,7 @@ import { UserTable } from "../components/UserTable";
 import { AdminTable } from "../components/AdminTable";
 import axios from "axios";
 
-// const API_GET = "https://jsd5-mock-backend.onrender.com/members";
-
 const API = "https://67eca027aa794fb3222e43e2.mockapi.io/members";
-
-// const API = "http://localhost:3000/members";
 
 export default function Home() {
   const [view, setView] = useState(null);
