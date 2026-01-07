@@ -26,7 +26,7 @@ export default function Home() {
     <div className="min-h-screen p-6 gap-y-6 flex flex-col justify-start w-full">
       <section className="mt-20 text-5xl font-extrabold text-center">
         <h1>Generation Thailand</h1>
-        <h1>React Assessment</h1>
+        <h3>React Assessment</h3>
       </section>
       <section className="flex justify-center gap-x-3 font-bold">
         <button

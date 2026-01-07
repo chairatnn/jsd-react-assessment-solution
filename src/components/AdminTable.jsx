@@ -166,10 +166,10 @@ export function AdminTable({ users, setUsers, fetchUsers, API }) {
                   <td className="border p-2 ">{user.username}</td>
                   <td className="border p-2 ">{user.email}</td>
                   <td className="border p-2 ">{user.role}</td>
-                  <td className="border p-2 flex gap-4">
+                  <td className="border p-2 flex justify-center gap-4">
                     <button
                       onClick={() => handleEdit(user)}
-                      className="cursor-pointer bg-yellow-400 hover:bg-yellow-500 text-white px-2 rounded-xl"
+                      className="cursor-pointer bg-teal-400 hover:bg-teal-500 text-white px-5 rounded-xl"
                     >
                       Edit
                     </button>

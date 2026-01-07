@@ -1,7 +1,7 @@
 export default function Owner() {
   return (
     <div className="min-h-screen flex flex-col items-center pt-12 gap-y-3 w-1/2">
-      <h1 className="text-4xl font-bold text-center">99 Instructor - JSDX</h1>
+      <h1 className="text-4xl font-bold text-center">02 Chairat - JSD#11</h1>
       <img
         src="https://imagenes.elpais.com/resizer/v2/T5ELROQ5VFCQ5CYLJ2EMM2XVUM.jpg?auth=ade00e4f1a01974e5fd4d6eb3a2cc16ee7116e30b53264e3dfa9cbdec078c4dc&width=414"
         alt="user image"
